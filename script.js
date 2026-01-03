@@ -858,7 +858,7 @@ function initTimerEvents() {
 // --- YouTube Search (YouTube Data API v3) ---
 // --- YouTube Search (YouTube Data API v3) ---
 function initYouTube() {
-    const API_KEY = 'AIzaSyAnIuVPZgLyeC_udlXmgYdMJ8mTwZGUVFU';
+    const API_KEY = '...';
     const MAX_RESULTS = 12;
 
     elements.ytBtn.addEventListener('click', performSearch);
